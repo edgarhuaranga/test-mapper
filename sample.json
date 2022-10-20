@@ -1,0 +1,29 @@
+{
+    "mod_id": "9ffbb8bf-128b-4baa-a078-26b1bc09b49c",
+    "mac": "0025:96FF:FE12:3456",
+    "lat": 40.4067572,
+    "long": -3.8541891,
+    "sensors": [
+      {
+        "model": "t001",
+        "time": 1666263218,
+        "value": 23.8,
+        "unit_of_measure": "celsius",
+        "measure_property": "temperature"
+      },
+      {
+        "model": "p010",
+        "time": 1666263220,
+        "value": 23.8,
+        "unit_of_measure": "atm",
+        "measure_property": "presure"
+      },
+      {
+        "model": "h100",
+        "time": 1666263236,
+        "value": 23.8,
+        "unit_of_measure": "percentage",
+        "measure_property": "humidity"
+      }
+    ]
+  }
