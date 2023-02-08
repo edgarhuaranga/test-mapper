@@ -1,496 +1,572 @@
 [
-    {
-      "name": "Asunción Gómez Pérez",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/194-asun/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/asun_oeg.png",
-      "info_personal": {
-        "cargo": "Catedrática de Universidad",
-        "direccion1": "Despacho 2211 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672891",
-        "fax": "+34 913524819",
-        "email": "asun@fi.upm.es"
-      }
-    },
-    {
-      "name": "Javier Bajo",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/356-jbajo/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/jbajo.jpg",
-      "info_personal": {
-        "cargo": "Catedrático de Universidad",
-        "direccion1": "Despacho 2105 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672881",
-        "fax": "+34 913524819",
-        "email": "jbajo@fi.upm.es"
-      }
-    },
-    {
-      "name": "Raúl García Castro",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/12-rgarcia/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/r-garcia.png",
-      "info_personal": {
-        "cargo": "Titular de Universidad",
-        "direccion1": "Despacho 2110 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672952",
-        "fax": "+34 913524819",
-        "email": "rgarcia@fi.upm.es"
-      }
-    },
-    {
-      "name": "Mariano Rico",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/40-marianorico/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/m-rico.png",
-      "info_personal": {
-        "cargo": "Profesor Contratado Doctor I3",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "mariano.rico@fi.upm.es"
-      }
-    },
-    {
-      "name": "Emilio Serrano",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/389-emilioserrano/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/emilioserra.jpg",
-      "info_personal": {
-        "cargo": "Profesor Contratado Doctor",
-        "direccion1": "Despacho 2201 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672907",
-        "fax": "+34 913524819",
-        "email": "emilioserra@fi.upm.es"
-      }
-    },
-    {
-      "name": "Daniel Garijo",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/30-dgarijo/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/dgarijo.png",
-      "info_personal": {
-        "cargo": "Investigador distinguido",
-        "direccion1": "Despacho 3205 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672914",
-        "fax": "+34 913524819",
-        "email": "daniel.garijo@upm.es"
-      }
-    },
-    {
-      "name": "Jose Ángel Ramos Gargantilla",
-      "id": "https://oeg.fi.upm.es/index.php/es/phd/54-jarg/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/jarg.png",
-      "info_personal": {
-        "cargo": "Post-Doc",
-        "direccion1": "Despacho 6104 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673084",
-        "fax": "+34 913524819",
-        "email": "jarg@fi.upm.es"
-      }
-    },
-    {
-      "name": "Pablo Calleja",
-      "id": "https://oeg.fi.upm.es/index.php/es/phd/353-pcalleja/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/pcalleja.png",
-      "info_personal": {
-        "cargo": "Post-Doc",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "pcalleja@fi.upm.es"
-      }
-    },
-    {
-      "name": "David Chaves Fraga",
-      "id": "https://oeg.fi.upm.es/index.php/es/phd/385-dchaves/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/dchaves.jpg",
-      "info_personal": {
-        "cargo": "Post-doc",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "dchaves@fi.upm.es"
-      }
-    },
-    {
-      "name": "Ahmad Alobaid",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/387-aalobaid/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/aalobaid.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "aalobaid@fi.upm.es"
-      }
-    },
-    {
-      "name": "Elvira Amador Domínguez",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/391-eamador/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/eamador.jpg",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "eamador@fi.upm.es"
-      }
-    },
-    {
-      "name": "Beatriz Esteves",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/394-besteves/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/besteves.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "bgon@fi.upm.es"
-      }
-    },
-    {
-      "name": "Juan Cano de Benito",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/396-jucanbe/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/jucanbe.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "jcano@fi.upm.es"
-      }
-    },
-    {
-      "name": "Rana Saniei",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/397-rsaniei/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/rsaniei.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "rsaniei@fi.upm.es"
-      }
-    },
-    {
-      "name": "Salvador González Gerpe",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/399-sgonzalez/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/sgonzalez.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "sgonzalezg@fi.upm.es"
-      }
-    },
-    {
-      "name": "Miguel Ángel García Delgado",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/15-magarcia/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mgarcia.png",
-      "info_personal": {
-        "cargo": "Ingeniero software",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "magarcia@fi.upm.es"
-      }
-    },
-    {
-      "name": "Juan Utande",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/401-jutande/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/jutande.jpg",
-      "info_personal": {
-        "cargo": "Transferencia de tecnología",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "jutande@fi.upm.es"
-      }
-    },
-    {
-      "name": "Gustavo Olivares",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/405-golivares/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/golivares.png",
-      "info_personal": {
-        "cargo": "Ingeniero Software",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "E-mail:"
-      }
-    },
-    {
-      "name": "Raúl Alcázar Valdaracete",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/96-ralcazar/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/ralcazar.png",
-      "info_personal": {
-        "cargo": "Técnico de soporte",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 91073081",
-        "fax": "+34 913524819",
-        "email": "ralcazar@fi.upm.es"
-      }
-    },
-    {
-      "name": "Oscar Corcho",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/11-ocorcho/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/ocorcho.png",
-      "info_personal": {
-        "cargo": "Catedrático de Universidad",
-        "direccion1": "Despacho 2105 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672911",
-        "fax": "+34 913524819",
-        "email": "ocorcho@fi.upm.es"
-      }
-    },
-    {
-      "name": "María S. Pérez-Hernández",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/43-mperez/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mperez.png",
-      "info_personal": {
-        "cargo": "Catedrática de Universidad",
-        "direccion1": "Despacho 4204 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672857",
-        "fax": "+34 913524819",
-        "email": "mperez@fi.upm.es"
-      }
-    },
-    {
-      "name": "Elena Montiel Ponsoda",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/52-emontiel/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/emontiel.png",
-      "info_personal": {
-        "cargo": "Profesora Contratada Doctor",
-        "direccion1": "Despacho 5217 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673051",
-        "fax": "+34 913524819",
-        "email": "emontiel@fi.upm.es"
-      }
-    },
-    {
-      "name": "Mari Carmen Suárez-Figueroa",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/33-mcsuarez/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mc-suarez.png",
-      "info_personal": {
-        "cargo": "Profesora Contratada Doctor",
-        "direccion1": "Despacho 2101 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672913",
-        "fax": "+34 913524819",
-        "email": "mcsuarez@fi.upm.es"
-      }
-    },
-    {
-      "name": "Víctor Rodríguez Doncel",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/284-vrodriguez/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/vrodriguez.png",
-      "info_personal": {
-        "cargo": "Profesor Contratado Doctor I3",
-        "direccion1": "Despacho 3205 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672914",
-        "fax": "+34 913524819",
-        "email": "vrodriguez@fi.upm.es"
-      }
-    },
-    {
-      "name": "María Poveda Villalón",
-      "id": "https://oeg.fi.upm.es/index.php/es/teachers/14-mpoveda/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mpoveda.png",
-      "info_personal": {
-        "cargo": "Profesora Contratada Doctor",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910672914",
-        "fax": "+34 913524819",
-        "email": "mpoveda@fi.upm.es"
-      }
-    },
-    {
-      "name": "Edna Ruckhaus",
-      "id": "https://oeg.fi.upm.es/index.php/es/phd/401-eruckhaus/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/ednaruckhaus.jpg",
-      "info_personal": {
-        "cargo": "Post-Doc",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "eruckhaus@fi.upm.es"
-      }
-    },
-    {
-      "name": "Andrea Cimmino",
-      "id": "https://oeg.fi.upm.es/index.php/es/phd/389-acimmino/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/acimmino.jpg",
-      "info_personal": {
-        "cargo": "Profesor Ayudante Doctor",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "cimmino@fi.upm.es"
-      }
-    },
-    {
-      "name": "María Navas Loro",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/386-mnavas/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mnavas.jpg",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "mnavas@fi.upm.es"
-      }
-    },
-    {
-      "name": "Carlos Badenes-Olmedo",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/354-cbadenes/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/c-badenes.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "cbadenes@fi.upm.es"
-      }
-    },
-    {
-      "name": "Patricia Martín Chozas",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/390-pmchozas/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/pmchozas.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "pmchozas@fi.upm.es"
-      }
-    },
-    {
-      "name": "Ana Iglesias Molina",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/393-aiglesias/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/aiglesias.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "ana.iglesiasm@upm.es"
-      }
-    },
-    {
-      "name": "Mirko Zichichi",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/395-mzichichi/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/mzichichi.png",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673081",
-        "fax": "+34 913524819",
-        "email": "mzichichi@fi.upm.es"
-      }
-    },
-    {
-      "name": "Julián Arenas Guerrero",
-      "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/400-jarenas/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/jarenas.jpeg",
-      "info_personal": {
-        "cargo": "Estudiante de doctorado",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "julian.arenas.guerrero@upm.es"
-      }
-    },
-    {
-      "name": "Esteban González Guardia",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/390-eguardia/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/eguardia.png",
-      "info_personal": {
-        "cargo": "Ingeniero software",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "egonzalez@fi.upm.es"
-      }
-    },
-    {
-      "name": "Francisco Yedro Martínez",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/400-fyedro/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/fyedro.png",
-      "info_personal": {
-        "cargo": "Ingeniero software",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "fyedro@fi.upm.es"
-      }
-    },
-    {
-      "name": "Karen Leticia Vázquez Flores",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/406-kvazquez/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/kvazquez.png",
-      "info_personal": {
-        "cargo": "Ingeniero Software",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "kvazquez@fi.upm.es"
-      }
-    },
-    {
-      "name": "Virginia de Pablo Llorente",
-      "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/402-vdepablo/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/vdepablo.png",
-      "info_personal": {
-        "cargo": "Comunicación",
-        "direccion1": "Despacho 3206 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673091",
-        "fax": "+34 913524819",
-        "email": "vdepablo@fi.upm.es"
-      }
-    },
-    {
-      "name": "Ana Ibarrola",
-      "id": "https://oeg.fi.upm.es/index.php/es/administrativestaff/95-aibarrola/index.html",
-      "photo": "https://oeg.fi.upm.es/images/stories/people/unknown-woman.png",
-      "info_personal": {
-        "cargo": "Personal administrativo",
-        "direccion1": "Despacho 6104 - Facultad de Informática",
-        "direccion2": "Boadilla del Monte, Madrid, España",
-        "telefono": "+34 910673083",
-        "fax": "+34 913524819",
-        "email": "aibarrola@fi.upm.es"
-      }
+  {
+    "name": "Asunción Gómez Pérez",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/194-asun/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/asun_oeg.png",
+    "info_personal": {
+      "cargo": "Catedrática de Universidad",
+      "direccion1": "Despacho 2211 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672891",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: asun@fi.upm.es"
     }
-  ]
+  },
+  {
+    "name": "Javier Bajo",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/356-jbajo/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/jbajo.jpg",
+    "info_personal": {
+      "cargo": "Catedrático de Universidad",
+      "direccion1": "Despacho 2105 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672881",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: jbajo@fi.upm.es"
+    }
+  },
+  {
+    "name": "Raúl García Castro",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/12-rgarcia/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/r-garcia.png",
+    "info_personal": {
+      "cargo": "Titular de Universidad",
+      "direccion1": "Despacho 2110 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672952",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: rgarcia@fi.upm.es"
+    }
+  },
+  {
+    "name": "Mariano Rico",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/40-marianorico/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/m-rico.png",
+    "info_personal": {
+      "cargo": "Profesor Contratado Doctor I3",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mariano.rico@fi.upm.es"
+    }
+  },
+  {
+    "name": "Emilio Serrano",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/389-emilioserrano/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/emilioserra.jpg",
+    "info_personal": {
+      "cargo": "Profesor Contratado Doctor",
+      "direccion1": "Despacho 2201 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672907",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: emilioserra@fi.upm.es"
+    }
+  },
+  {
+    "name": "Daniel Garijo",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/30-dgarijo/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/dgarijo.png",
+    "info_personal": {
+      "cargo": "Investigador distinguido",
+      "direccion1": "Despacho 3205 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672914",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: daniel.garijo@upm.es"
+    }
+  },
+  {
+    "name": "Jose Ángel Ramos Gargantilla",
+    "id": "https://oeg.fi.upm.es/index.php/es/phd/54-jarg/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/jarg.png",
+    "info_personal": {
+      "cargo": "Post-Doc",
+      "direccion1": "Despacho 6104 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673084",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: jarg@fi.upm.es"
+    }
+  },
+  {
+    "name": "Pablo Calleja",
+    "id": "https://oeg.fi.upm.es/index.php/es/phd/353-pcalleja/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/pcalleja.png",
+    "info_personal": {
+      "cargo": "Post-Doc",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: pcalleja@fi.upm.es"
+    }
+  },
+  {
+    "name": "David Chaves Fraga",
+    "id": "https://oeg.fi.upm.es/index.php/es/phd/385-dchaves/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/dchaves.jpg",
+    "info_personal": {
+      "cargo": "Post-doc",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: dchaves@fi.upm.es"
+    }
+  },
+  {
+    "name": "Ahmad Alobaid",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/387-aalobaid/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/aalobaid.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: aalobaid@fi.upm.es"
+    }
+  },
+  {
+    "name": "Elvira Amador Domínguez",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/391-eamador/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/eamador.jpg",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: eamador@fi.upm.es"
+    }
+  },
+  {
+    "name": "Beatriz Esteves",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/394-besteves/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/besteves.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: bgon@fi.upm.es"
+    }
+  },
+  {
+    "name": "Juan Cano de Benito",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/396-jucanbe/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/jucanbe.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: jcano@fi.upm.es"
+    }
+  },
+  {
+    "name": "Rana Saniei",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/397-rsaniei/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/rsaniei.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: rsaniei@fi.upm.es"
+    }
+  },
+  {
+    "name": "Salvador González Gerpe",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/399-sgonzalez/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/sgonzalez.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: sgonzalezg@fi.upm.es"
+    }
+  },
+  {
+    "name": "Miguel Ángel García Delgado",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/15-magarcia/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mgarcia.png",
+    "info_personal": {
+      "cargo": "Ingeniero software",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: magarcia@fi.upm.es"
+    }
+  },
+  {
+    "name": "Juan Utande",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/401-jutande/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/jutande.jpg",
+    "info_personal": {
+      "cargo": "Transferencia de tecnología",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: jutande@fi.upm.es"
+    }
+  },
+  {
+    "name": "Gustavo Olivares",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/405-golivares/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/golivares.png",
+    "info_personal": {
+      "cargo": "Ingeniero Software",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail:"
+    }
+  },
+  {
+    "name": "Raúl Alcázar Valdaracete",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/96-ralcazar/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/ralcazar.png",
+    "info_personal": {
+      "cargo": "Técnico de soporte",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 91073081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: ralcazar@fi.upm.es"
+    }
+  },
+  {
+    "name": "Oscar Corcho",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/11-ocorcho/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/ocorcho.png",
+    "info_personal": {
+      "cargo": "Catedrático de Universidad",
+      "direccion1": "Despacho 2105 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672911",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: ocorcho@fi.upm.es"
+    }
+  },
+  {
+    "name": "María S. Pérez-Hernández",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/43-mperez/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mperez.png",
+    "info_personal": {
+      "cargo": "Catedrática de Universidad",
+      "direccion1": "Despacho 4204 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672857",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mperez@fi.upm.es"
+    }
+  },
+  {
+    "name": "Elena Montiel Ponsoda",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/52-emontiel/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/emontiel.png",
+    "info_personal": {
+      "cargo": "Profesora Contratada Doctor",
+      "direccion1": "Despacho 5217 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673051",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: emontiel@fi.upm.es"
+    }
+  },
+  {
+    "name": "Mari Carmen Suárez-Figueroa",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/33-mcsuarez/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mc-suarez.png",
+    "info_personal": {
+      "cargo": "Profesora Contratada Doctor",
+      "direccion1": "Despacho 2101 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672913",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mcsuarez@fi.upm.es"
+    }
+  },
+  {
+    "name": "Víctor Rodríguez Doncel",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/284-vrodriguez/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/vrodriguez.png",
+    "info_personal": {
+      "cargo": "Profesor Contratado Doctor I3",
+      "direccion1": "Despacho 3205 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672914",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: vrodriguez@fi.upm.es"
+    }
+  },
+  {
+    "name": "María Poveda Villalón",
+    "id": "https://oeg.fi.upm.es/index.php/es/teachers/14-mpoveda/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mpoveda.png",
+    "info_personal": {
+      "cargo": "Profesora Contratada Doctor",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910672914",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mpoveda@fi.upm.es"
+    }
+  },
+  {
+    "name": "Edna Ruckhaus",
+    "id": "https://oeg.fi.upm.es/index.php/es/phd/401-eruckhaus/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/ednaruckhaus.jpg",
+    "info_personal": {
+      "cargo": "Post-Doc",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: eruckhaus@fi.upm.es"
+    }
+  },
+  {
+    "name": "Andrea Cimmino",
+    "id": "https://oeg.fi.upm.es/index.php/es/phd/389-acimmino/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/acimmino.jpg",
+    "info_personal": {
+      "cargo": "Profesor Ayudante Doctor",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: cimmino@fi.upm.es"
+    }
+  },
+  {
+    "name": "María Navas Loro",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/386-mnavas/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mnavas.jpg",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mnavas@fi.upm.es"
+    }
+  },
+  {
+    "name": "Carlos Badenes-Olmedo",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/354-cbadenes/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/c-badenes.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: cbadenes@fi.upm.es"
+    }
+  },
+  {
+    "name": "Patricia Martín Chozas",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/390-pmchozas/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/pmchozas.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: pmchozas@fi.upm.es"
+    }
+  },
+  {
+    "name": "Ana Iglesias Molina",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/393-aiglesias/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/aiglesias.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: ana.iglesiasm@upm.es"
+    }
+  },
+  {
+    "name": "Mirko Zichichi",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/395-mzichichi/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/mzichichi.png",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673081",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: mzichichi@fi.upm.es"
+    }
+  },
+  {
+    "name": "Julián Arenas Guerrero",
+    "id": "https://oeg.fi.upm.es/index.php/es/phdstudents/400-jarenas/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/jarenas.jpeg",
+    "info_personal": {
+      "cargo": "Estudiante de doctorado",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: julian.arenas.guerrero@upm.es"
+    }
+  },
+  {
+    "name": "Esteban González Guardia",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/390-eguardia/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/eguardia.png",
+    "info_personal": {
+      "cargo": "Ingeniero software",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: egonzalez@fi.upm.es"
+    }
+  },
+  {
+    "name": "Francisco Yedro Martínez",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/400-fyedro/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/fyedro.png",
+    "info_personal": {
+      "cargo": "Ingeniero software",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: fyedro@fi.upm.es"
+    }
+  },
+  {
+    "name": "Karen Leticia Vázquez Flores",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/406-kvazquez/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/kvazquez.png",
+    "info_personal": {
+      "cargo": "Ingeniero Software",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: kvazquez@fi.upm.es"
+    }
+  },
+  {
+    "name": "Virginia de Pablo Llorente",
+    "id": "https://oeg.fi.upm.es/index.php/es/universitystaff/402-vdepablo/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/vdepablo.png",
+    "info_personal": {
+      "cargo": "Comunicación",
+      "direccion1": "Despacho 3206 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673091",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: vdepablo@fi.upm.es"
+    }
+  },
+  {
+    "name": "Ana Ibarrola",
+    "id": "https://oeg.fi.upm.es/index.php/es/administrativestaff/95-aibarrola/index.html",
+    "photo": "https://oeg.fi.upm.es/images/stories/people/unknown-woman.png",
+    "info_personal": {
+      "cargo": "Personal administrativo",
+      "direccion1": "Despacho 6104 - Facultad de Informática",
+      "distrito": "Boadilla del Monte",
+      "provincia": "Madrid",
+      "pais": "España",
+      "telefono": "Teléfono: +34 910673083",
+      "fax": "Fax: +34 913524819",
+      "email": "E-mail: aibarrola@fi.upm.es"
+    }
+  }
+]
