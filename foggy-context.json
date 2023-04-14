@@ -1,6 +1,5 @@
 {
     "@context": {
-        "@version": 1.1,
         "core": "https://auroral.iot.linkeddata.es/def/core#",
         "adapters": "https://auroral.iot.linkeddata.es/def/adapters#",
         "saref": "https://saref.etsi.org/core#",
